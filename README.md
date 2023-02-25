@@ -1,1 +1,2 @@
-# Ecommerce_Website-
+# Ecommerce Website
+A simple responsive ecommerce website using javascxript, css and HTML
